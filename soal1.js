@@ -1,6 +1,6 @@
 //1. String.prototype.toUpperCase()
 
-    /* Methode toUpperCase () mengembalikan nilai string yang dikonversi ke huruf besar .
+    /* Method toUpperCase () mengembalikan nilai string yang dikonversi ke huruf besar .
     Metode ini tidak memengaruhi nilai string itu sendiri karena string JavaScript tidak dapat diubah.
     */
 
@@ -17,7 +17,7 @@
 //2. Array.prototype.find()
 
     /*
-    Methode find () mengembalikan nilai elemen pertama dalam larik yang disediakan yang memenuhi fungsi pengujian yang disediakan. 
+    Method find () mengembalikan nilai elemen pertama dalam larik yang disediakan yang memenuhi fungsi pengujian yang disediakan. 
     Jika tidak ada nilai yang memenuhi fungsi pengujian, undefined dikembalikan.
     metode ini akan mengembalikan nilai pertama yang ditemukan
     */
@@ -33,7 +33,7 @@
 
 // 3.Array.prototype.findIndex()
 
-    /* Methode ini mengembalikan indeks elemen pertama dalam array yang memenuhi perintah. 
+    /* Method ini mengembalikan indeks elemen pertama dalam array yang memenuhi perintah. 
 
     Jika tidak, ia mengembalikan -1, menunjukkan bahwa tidak ada elemen yang lulus pengujian. */
 
@@ -52,7 +52,7 @@
 // 4.Array.prototype.indexOf()
 
     /*
-    Methode indexOf () mengembalikan indeks pertama di dalam array, 
+    Method indexOf () mengembalikan indeks pertama di dalam array, 
     jika tidak ada maka akan mengembalikan nilai -1.
     */
 
@@ -69,7 +69,7 @@
 
 // 5.Array.prototype.forEach()
     /*
-    Methode for each merupakan methode untuk melakukan perintah perulangan yang dituentukan oleh panjang dari array
+    Method for each merupakan methode untuk melakukan perintah perulangan yang dituentukan oleh panjang dari array
     */
 
     const city = ['Cimahi','Bandung','Tasik','Jakarta','Jambi']
@@ -79,7 +79,7 @@
 
 // 6.Array.prototype.filter()
     /*
-    methode ini membuat array baru dengan memfilter array baru dengan sesuai perintah
+    method ini membuat array baru dengan memfilter array baru dengan sesuai perintah
     */
 
     const date = [25,26,27,28,29,30]
@@ -88,7 +88,7 @@
 
 // 7.Array.prototype.push()
     /*
-    Methode push () menambahkan satu atau lebih elemen ke akhir array dan mengembalikan panjang array yang baru.
+    Method push () menambahkan satu atau lebih elemen ke akhir array dan mengembalikan panjang array yang baru.
     */
 
     const plants = ['monstera','palm','oak']
@@ -98,8 +98,8 @@
 
 // 8.Object.assign()
     /*
-    Methode ini menyalin semua properti dari satu atau lebih objek sumber ke objek target. 
-    methode ini mengembalikan objek target.
+    Method ini menyalin semua properti dari satu atau lebih objek sumber ke objek target. 
+    method ini mengembalikan objek target.
     */
 
         const target = {
